@@ -2,7 +2,7 @@
 
 # Caldera
 
-Auto Create wallets on Caldera domain
+Auto Create Wallets on Caldera domain
 
 ## Overview
 
